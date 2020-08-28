@@ -27,11 +27,11 @@ dependencies {
 }
 
 //添加
-//publish {
-//    userOrg = 'wanjiannotes'
- //   groupId = 'com.wanjian'
-   // artifactId = 'cockroach'
-  //  publishVersion = '0.0.5'
-  //  desc = '打不死的小强 , 永不crash的Android'
-  //  website = 'https://github.com/android-notes/Cockroach'
-//}
+publish {
+    userOrg = 'wanjiannotes'
+    groupId = 'com.syz913'
+    artifactId = 'cockroach'
+    publishVersion = '2.0.0'
+    desc = '打不死的小强 , 永不crash的Android'
+    website = 'https://github.com/syz913/Cockroach'
+}
